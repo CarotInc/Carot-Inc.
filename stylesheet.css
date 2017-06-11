@@ -39,22 +39,51 @@ body {
   float:left;
   
 }
-.topic{
-  
-  text-align: center;
-  
+.corp-name{
+  padding-top: 30px;
+  background-color: #ff8c00;
+  height: 300px;
 }
+.vision{
+  text-align: center;
+  padding-top: 60px;
+}
+.mission{
+  text-align: center;
+  padding-bottom: 80px;
+  padding-top: 40px;
+}
+
 .topic1{
-  padding-top:220px;
+  padding-top:30px;
   font-size:25px;
 }
 .topic2{
   padding-top:15px;
-  padding-bottom:40px;
   font-size: 15px;
 }
 .header{
   background-color:white;
   position:fixed;
   width: 100%;
+}
+
+.product{
+  height: 300px;
+  background-color: #ff8c00;
+}
+
+.member{
+  height: 1000px;
+  background-color: blue;
+}
+
+.form{
+  height: 300px;
+  background-color: #ff8c00;
+  text-align: center;
+}
+.about{
+  height: 300px;
+  text-align: center;
 }
